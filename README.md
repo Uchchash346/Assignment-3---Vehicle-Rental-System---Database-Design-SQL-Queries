@@ -210,7 +210,7 @@ If you want, I can also add:
 Just let me know 👍
 ```
 
-## 🔗 Submission Links
+## Submission Links
 
 | Resource              | Link                  |
 | --------------------- | --------------------- |
