@@ -209,3 +209,15 @@ If you want, I can also add:
 
 Just let me know 👍
 ```
+
+## 🔗 Submission Links
+
+| Resource              | Link                  |
+| --------------------- | --------------------- |
+| **GitHub Repository** | [GitHub Repo][github] |
+| **ERD Diagram**       | [ERD Link][erd]       |
+| **Viva Video**        | [Viva Video][viva]    |
+
+[github]: https://github.com/Uchchash346/Assignment-3---Vehicle-Rental-System---Database-Design-SQL-Queries
+[erd]: https://lucid.app/lucidchart/a00db083-9788-42de-80c4-300b61d04f7c/edit?viewport_loc=-1835%2C-561%2C2992%2C1466%2C0_0&invitationId=inv_39ba83bf-ac33-4a44-bb18-df384d1ac256
+[viva]: https://drive.google.com/file/d/115IwOtIhCt8D_l1et1Zpa9bY1GcGNpjq/view?usp=sharing
