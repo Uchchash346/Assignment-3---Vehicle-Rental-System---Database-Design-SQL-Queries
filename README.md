@@ -215,7 +215,7 @@ Just let me know 👍
 | Resource              | Link                  |
 | --------------------- | --------------------- |
 | **GitHub Repository** | [GitHub Repo][github] |
-| **ERD Diagram**       | [ERD Link][erd]       |
+| **ER Diagram**       | [ERD Link][erd]       |
 | **Viva Video**        | [Viva Video][viva]    |
 
 [github]: https://github.com/Uchchash346/Assignment-3---Vehicle-Rental-System---Database-Design-SQL-Queries
